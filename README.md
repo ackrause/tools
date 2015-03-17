@@ -1,4 +1,4 @@
 tools
 -----
 
-Quick one-of tools made for a combination of learning and usefulness.
+Quick one-off tools made for a combination of learning and usefulness.
